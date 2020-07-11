@@ -38,6 +38,18 @@ The steps involved in creating the website.
 [(Back to top)](#list-of-contents)
 
 - Run XAMPP server.
+- Create database forum_db.sql in phpMyAdmin.
+- In the database create the required tables 
+- users
+![users](https://user-images.githubusercontent.com/32899655/87233739-cf3d8a80-c3e7-11ea-8a9d-2151e3c60e49.png)
+- posts
+![posts](https://user-images.githubusercontent.com/32899655/87233737-cb116d00-c3e7-11ea-99ef-5cc6e7761dd0.png)
+- comments
+![comments](https://user-images.githubusercontent.com/32899655/87233735-c6e54f80-c3e7-11ea-8090-796f58d8c27b.png)
+- views
+![views](https://user-images.githubusercontent.com/32899655/87233740-d06eb780-c3e7-11ea-86fd-d41d2b4b41cd.png)
+
+
 - Run the webiste using the following link in browser :
   - localhost/forum12/
 
